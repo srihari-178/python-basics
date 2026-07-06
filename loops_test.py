@@ -90,6 +90,14 @@ for i in numbers:
     if i <smallest_num:
         smallest_num = i
 print(smallest_num)
+
+sample = ["server1","server2","server3","server4"]
+for i in range(len(sample)):
+    print(sample[i])
+
+sample1 = ["pod1","pod2","pod3","pod4"]
+for i in sample1:
+    print(i)
     
 
 
